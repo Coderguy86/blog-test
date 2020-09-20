@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Passing Google IT Support Professional Certificate
-date: 2017-09-12 13:32:20 +0300
+title: How I pass the Google IT Support Professional Certificate
+date: 2020-09-20 13:32:20 +0500
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: GoogleITcompletionbadge.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Google, IT]
 ---
-Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents copper mug twee. Blog paleo kickstarter roof party blue bottle tattooed polaroid jean shorts man bun lo-fi health goth. Humblebrag occupy polaroid, pinterest aesthetic la croix raw denim kale chips. 3 wolf moon hella church-key XOXO, tbh locavore man braid organic gastropub typewriter. Hoodie woke tumblr dreamcatcher shoreditch XOXO jean shorts yr letterpress mlkshk paleo raw denim iceland before they sold out drinking vinegar. Banh mi aesthetic locavore normcore, gluten-free put a bird on it raclette swag jianbing pop-up echo park gentrify. Stumptown brooklyn godard tumeric ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
+Passing the Google IT Support Professional Certificate has truly been a learning expericence, but let me tell you something it wasn't easy. I thought I knew most of the basic knowledge  when it comes to computers. I was wrong! Small history lession about me, I've been tinkering with computers for over 15 years. It all started with World of Warcraft. The game I had to play, but my mom computer wasn't good enough.Three week later and an BAM! Behold a new computer was born. After that I've been fascinated with computers every since. If you want to get into the IT field, I highly recommend Google IT Support Professional Certificate. If I can do it, you can too! Here are some tips that I used to pass.
 
-## Plaid ramps kitsch woke pork belly
-90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
+## Routine,Routine,Routine
+That right! I said it three times. I can't stress that enough. If you just apply this step, your half way there. Having that consistency even if it just 30 minutes a day can make a difference. Don't make my mistake, I when days,weeks without  touching the learning material and had to relearn past subjects just to get catch up. 
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
 
